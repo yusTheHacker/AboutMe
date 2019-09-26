@@ -12,10 +12,11 @@
         \n
         The professor teaches very well\n
         \n
-        \n
+        \n\n\n\n\n\n\n\n\n\n
         Lets see\n
         \n
         Good bye\n
         Thank you
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
 </resources>
