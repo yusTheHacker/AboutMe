@@ -1,23 +1,26 @@
-# <name of app>
+# About me app
 
 An Android application that displays a short bio about a person.
 
 Submitted by: Yusley Rosabal Espinosa
 
-Time spent: <time>
+Time spent: 3 hours
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] Implement LinearLayout view group with nested ScrollView.
-* [ ] Create and use resources for dimensions, styles, colors, and font.
-* [ ] Use data binding to improve efficiency.
-* [ ] App displays a scrollable bio and displays a nickname when button is clicked.
+* [x] Implement LinearLayout view group with nested ScrollView.
+* [x] Create and use resources for dimensions, styles, colors, and font.
+* [x] Use data binding to improve efficiency.
+* [x] App displays a scrollable bio and displays a nickname when button is clicked.
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Create a button.
+* [x] Hide the screen keyboard
+* [x] Create a plain text where the user may type his/her nickname
+* [x] Hide the typed nickname text and show it as an uneditable text
 
 ## Video Walkthrough 
 
@@ -27,7 +30,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+A lot of new stuffs in this app. It is easy to learn, but the bugs are on the rise.
+Spending time fixing these bugs was the harder challenge.
+I hope when I learn a little more this number of bugs decreases.
 
 ## License
 
